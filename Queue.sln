@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "Queue\Queue.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{97D3EABD-B4AB-4940-BF58-6F64A2257A34}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QueueGUI", "QueueGUI\CppWinForm1.vcxproj", "{9696B190-8A31-45BA-A43E-0287102EF438}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphics", "Graphics\CppWinForm1.vcxproj", "{9696B190-8A31-45BA-A43E-0287102EF438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
